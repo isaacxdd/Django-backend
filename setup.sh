@@ -8,3 +8,5 @@ pip install -r dependencies.txt
 
 ## Run migration just in case
 python manage.py migrate
+
+//hello
